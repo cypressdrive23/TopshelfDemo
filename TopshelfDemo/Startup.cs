@@ -1,7 +1,7 @@
 ﻿using Owin;
 using System.Web.Http;
 
-namespace JWTTest
+namespace TopshelfDemo
 {
     public class Startup
     {

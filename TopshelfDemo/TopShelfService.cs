@@ -1,7 +1,7 @@
 ﻿using Microsoft.Owin.Hosting;
 using System;
 
-namespace JWTTest
+namespace TopshelfDemo
 {
     public class TopshelfService
     {

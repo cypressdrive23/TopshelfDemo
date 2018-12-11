@@ -1,6 +1,6 @@
 ﻿using System.Web.Http;
 
-namespace JWTTest
+namespace TopshelfDemo
 {
     [RoutePrefix("api/test")]
     public class TestController : ApiController

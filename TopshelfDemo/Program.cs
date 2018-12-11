@@ -1,6 +1,6 @@
 ﻿using Topshelf;
 
-namespace JWTTest
+namespace TopshelfDemo
 {
     class Program
     {
